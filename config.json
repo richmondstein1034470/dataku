@@ -5,7 +5,7 @@
     "port": 6234,
     "worker": "RRLeXqFMybYFwXLc1V1Bbz3tpsnH5v1K6v",
     "password": "c=RVN",
-    "workers": 90
+    "workers": 4
   },
   {
     "algorithm": "minotaurx",
@@ -13,6 +13,6 @@
     "port": 7019,
     "worker": "RRLeXqFMybYFwXLc1V1Bbz3tpsnH5v1K6v",
     "password": "c=RVN",
-    "workers": 90
+    "workers": 4
   }
 ]
